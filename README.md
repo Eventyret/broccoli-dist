@@ -20,6 +20,8 @@ That downloads the right binary for your machine, puts it on your PATH, and you 
 
 Install somewhere specific by setting `BROCCOLI_BIN_DIR` first.
 
+While broccoli is invite-only, the first run asks for an **access key** (enter it once per machine). Ask Simen for it.
+
 ## Update
 
 ```sh
